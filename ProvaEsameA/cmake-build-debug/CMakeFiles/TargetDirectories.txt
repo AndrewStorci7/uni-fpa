@@ -1,0 +1,3 @@
+/home/andrew-drink/Scrivania/uni-fpa/ProvaEsameA/cmake-build-debug/CMakeFiles/ProvaEsameA.dir
+/home/andrew-drink/Scrivania/uni-fpa/ProvaEsameA/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andrew-drink/Scrivania/uni-fpa/ProvaEsameA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
