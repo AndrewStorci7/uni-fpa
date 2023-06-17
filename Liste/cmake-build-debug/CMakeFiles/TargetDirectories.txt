@@ -1,0 +1,3 @@
+C:/Users/sandr/OneDrive/Desktop/UNIpr/uni-fpa/Liste/cmake-build-debug/CMakeFiles/Liste.dir
+C:/Users/sandr/OneDrive/Desktop/UNIpr/uni-fpa/Liste/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sandr/OneDrive/Desktop/UNIpr/uni-fpa/Liste/cmake-build-debug/CMakeFiles/rebuild_cache.dir
