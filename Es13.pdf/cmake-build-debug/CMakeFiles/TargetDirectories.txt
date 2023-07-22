@@ -1,0 +1,3 @@
+/home/andrew-drink/Scrivania/uni-fpa/Es13.pdf/cmake-build-debug/CMakeFiles/Es13_pdf.dir
+/home/andrew-drink/Scrivania/uni-fpa/Es13.pdf/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andrew-drink/Scrivania/uni-fpa/Es13.pdf/cmake-build-debug/CMakeFiles/rebuild_cache.dir

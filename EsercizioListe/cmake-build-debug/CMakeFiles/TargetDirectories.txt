@@ -1,0 +1,3 @@
+/home/andrew-drink/Scrivania/uni-fpa/EsercizioListe/cmake-build-debug/CMakeFiles/EsercizioListe.dir
+/home/andrew-drink/Scrivania/uni-fpa/EsercizioListe/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andrew-drink/Scrivania/uni-fpa/EsercizioListe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
