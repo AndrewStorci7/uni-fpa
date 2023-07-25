@@ -251,7 +251,7 @@ int* find_occur(int** M, int r, int c) {
                 count++;
         }
         (count > 1) ? R[_i] = M[_r][_c] : count = 0;
-        
+
     }
     print_array(R, 0, r * c);
     return R;
