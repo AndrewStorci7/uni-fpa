@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ProvaEsameA100223",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ProvaEsameA100223::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ProvaEsameA100223-Debug-e59b8a643ab718ae5fdc.json",
+					"name" : "ProvaEsameA100223",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/sandr/OneDrive/Desktop/UNIpr/uni-fpa/ProvaEsameA100223/cmake-build-debug",
+		"source" : "C:/Users/sandr/OneDrive/Desktop/UNIpr/uni-fpa/ProvaEsameA100223"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

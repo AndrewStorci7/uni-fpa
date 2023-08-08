@@ -1,0 +1,3 @@
+C:/Users/sandr/OneDrive/Desktop/UNIpr/uni-fpa/ProvaEsameA100223/cmake-build-debug/CMakeFiles/ProvaEsameA100223.dir
+C:/Users/sandr/OneDrive/Desktop/UNIpr/uni-fpa/ProvaEsameA100223/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sandr/OneDrive/Desktop/UNIpr/uni-fpa/ProvaEsameA100223/cmake-build-debug/CMakeFiles/rebuild_cache.dir
