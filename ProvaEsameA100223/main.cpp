@@ -35,8 +35,8 @@ struct node {
 void reverse(int[], int);
 void print(int[], int);
 char* trim(char[], char);
-node* unione(node*, node*, node*);
-void print_node(node*);
+node* unione(node*&, node*&, node*&);
+void print_node(node*&);
 
 
 int main() {
@@ -65,13 +65,7 @@ int main() {
     cout << "After TRIM: " << r << endl;
 
     cout << "-------------- ESERCIZIO 3 --------------" << endl;
-    node* testa = NULL;
-    node* newNo;
-    newNo->d = 3;
-    newNo->n = NULL;
-    testa->d = 2;
-    testa->n = newNo;
-    print_node(testa);
+    // TODO
 
     return 0;
 }
@@ -92,7 +86,7 @@ void print(int A[], int l) {
 }
 
 char* trim(char* str, char c) {
-    char* r = new char[MAX_STR]();
+    char* r = new char[strlen(str)]();
     int j = 0;
     for (int i = 0; i < strlen(str); i++) {
         if (str[i] != c) {
@@ -103,14 +97,14 @@ char* trim(char* str, char c) {
     return r;
 }
 
-void print_node(node* n) {
+void print_node(node* &n) {
     if (n->n == NULL)
         return;
     cout << n->d << " -> ";
     print_node(n->n);
 }
 
-node* unione(node* l1, node* l2, node* r) {
+node* unione(node* &l1, node* &l2, node* &r) {
     if (l1 == NULL || l2 == NULL)
         return r;
     if (l1->d > l2->d) {
